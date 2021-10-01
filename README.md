@@ -12,12 +12,12 @@ Youtube Video Download
 
 
 執行程式的時候，會先請求輸入網址，執行軟體後，會抓取網頁原始碼上資料(影片標題、影片評價、影片長度、影片觀賞次數)及進行影音檔下載，結束後並且會印出圖檔下載的狀況，如圖所示。
- 
+ ![image](2.jpg)
 
 
 
 程式會自動在D槽路徑，建立資料夾「myYoutube」，並將網頁擷取下來的影音檔置於其中，其下載結果如圖所示。
- 
+ ![image](https://github.com/azhu-wang/Youtube-Video-Download/blob/main/1.jpg)
 
 三、本程式所使用的套件功能介紹
 本程式主要運用4個套件，其功能說明如下：
