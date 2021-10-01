@@ -8,7 +8,7 @@ Youtube Video Download
 
 二、程式設計目標
 撰寫Python程式，自動擷取YouTube網頁上的影音檔案，網址可以任意輸入，只要是YouTube的影音網頁，其網站如圖所示。
-
+![image](https://github.com/azhu-wang/Youtube-Video-Download/blob/main/1.jpg)
 
 
 執行程式的時候，會先請求輸入網址，執行軟體後，會抓取網頁原始碼上資料(影片標題、影片評價、影片長度、影片觀賞次數)及進行影音檔下載，結束後並且會印出圖檔下載的狀況，如圖所示。
